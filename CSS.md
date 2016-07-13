@@ -1,9 +1,9 @@
-Information: CSS란EDIT
-Cascading Style Sheets (CSS)는 documents가 사용자에게 어떻게 보여질가를 기술하는 언어이다.
+**Information:
+**Cascading Style Sheets (CSS)는 documents가 사용자에게 어떻게 보여질가를 기술하는 언어이다.**
 
 Document는 마크업 언어로 사용된 정보의 집합이다.
 
-예시
+## 예시
 일반적인 웹페이지도 Document이다..
 웹페이지를 통해 보는 정보들도 보통 HTML(HyperText Markup Language)이라는 마크업언어로 작성 되었다.
 모달 윈도우(Modal windows)로 불리는 대화상자들도 일부는 Document이다.
